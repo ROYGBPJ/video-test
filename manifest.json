@@ -1,5 +1,5 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
+  "update_url": "https://clients2.google.com/service/update2/crx",
 
   "author": "roy",
   "name": "Video Download Helper",
@@ -300,28 +300,6 @@
       ],
       "run_at": "document_start",
       "all_frames": true
-    },
-    {
-      "world": "ISOLATED",
-      "js": [
-        "injected/activate.js"
-      ],
-      "run_at": "document_start",
-      "matches": [
-        "https://downloadhelper.net/activate*",
-        "https://app.downloadhelper.net/activate*",
-        "https://v10.downloadhelper.net/activate*"
-      ]
-    },
-    {
-      "world": "ISOLATED",
-      "js": [
-        "injected/premium.js"
-      ],
-      "run_at": "document_end",
-      "matches": [
-        "https://downloadhelper.net/premium*"
-      ]
     }
   ],
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqm/Cdcx4ikjVJbadUGpwrgJXdkc6Is8smuMiuAQbzgOg0cETVxuAY55UxgCxsh3lu4Os0RFK11bMBhu79Jbwv8tyml6mFGLLncLU2dFPZwnZWnIt5U+KC+uOvjryOacIPLxS/PeF2sXScNd0QJg/wTyl5WIizFtbcM3ZmFDFsj39FuUoH/OhO1Ux1/4Xn6dbSRb5F6qgkS2CU9ptTPQz0NJNaEmbL7vnWQkl2C8N4SjlDpRf/lC5r72Ow16hmbNmCGRhbxjPF0Dm+EO2uyF6dBw4n9V8BjBXQ7AdL5J3k4dXJk/oIOD2GQJsGyHK6TobNPPjy6W7bpPBtSfesIXS+wIDAQAB",
