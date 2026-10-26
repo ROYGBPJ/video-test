@@ -95,12 +95,6 @@
   "account_status": {
     "message": "Estado"
   },
-  "account_status_premium": {
-    "message": "Premium ($1)"
-  },
-  "free_account": {
-    "message": "Plan gratuito"
-  },
   "copy_to_clipboard": {
     "message": "Copiar información al portapapeles"
   },
@@ -214,18 +208,6 @@
   },
   "download_with_drm_failed_description": {
     "message": "Algo no ha funcionado. Creemos que este video tiene DRM. No admitimos videos con DRM."
-  },
-  "no_youtube": {
-    "message": "No se permite la descarga desde YouTube"
-  },
-  "no_youtube_description": {
-    "message": "Lamentablemente, Chrome Web Store no permite que las extensiones descarguen videos de YouTube. Otros navegadores como Firefox no tienen esta limitación."
-  },
-  "premium_required": {
-    "message": "Se requiere el estado Premium"
-  },
-  "premium_yt_required_description": {
-    "message": "Sin el estado Premium debe esperar dos horas entre descargas de videos de YouTube."
   },
   "stop": {
     "message": "Detener"
