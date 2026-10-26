@@ -3,7 +3,6 @@
 
   "author": "Video Download Helper Team",
   "name": "Video Download Helper",
-  "homepage_url": "https://downloadhelper.net",
   "description": "__MSG_appDesc__",
   "manifest_version": 3,
   "default_locale": "en",
