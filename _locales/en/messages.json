@@ -122,12 +122,6 @@
   "account_status": {
     "message": "Status"
   },
-  "account_status_premium": {
-    "message": "Premium ($1)"
-  },
-  "free_account": {
-    "message": "Free plan"
-  },
   "copy_to_clipboard": {
     "message": "Copy information to clipboard"
   },
@@ -340,27 +334,6 @@
   },
   "download_with_drm_failed_description": {
     "message": "Something didn't work. And we think this video has DRM. We do not support videos with DRM."
-  },
-  "no_youtube": {
-    "message": "Download from youtube not allowed"
-  },
-  "no_youtube_description": {
-    "message": "Unfortunately, the Chrome Web Store does not allow extensions for downloading YouTube videos so we could not include this feature in the Chrome version of the extension."
-  },
-  "no_youtube_description_2": {
-    "message": "Please use Firefox or Microsoft Edge"
-  },
-  "premium_required": {
-    "message": "Premium status required"
-  },
-  "premium_yt_required_description": {
-    "message": "Without Premium status, a YouTube download can only be performed 2 hours after the previous one."
-  },
-  "youtube_too_many_downloads": {
-    "message": "Oops, YouTube seems to be blocked"
-  },
-  "youtube_too_many_downloads_description": {
-    "message": "YouTube sometimes will limit how many videos can be requested. Nothing we can do about sadly. Try again later."
   },
   "stop": {
     "message": "Stop"
